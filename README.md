@@ -1,2 +1,1 @@
-# Primo
-A program that checks whether your entered number is a prime number or not.
+See the Code on primo.py
